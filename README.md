@@ -1,7 +1,8 @@
 # MiniFBkPhotosApp
 Building a Mini Facebook Photos exporting App
 
-Features
+Features :
+
 • As a User, I want to sign up using email & password
 
 • As a first time User, I want to link my Facebook account & grant access
