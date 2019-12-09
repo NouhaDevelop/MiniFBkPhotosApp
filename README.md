@@ -2,7 +2,7 @@
 Building a Mini Facebook Photos exporting App
 
 Features
-• As a User, I want to sign up using email & password
+• As a User, I want to sign up using email & password\n
 • As a first time User, I want to link my Facebook account & grant access
 permission to my albums & photos
 o Linking the FB account should be done one time, after the signup
