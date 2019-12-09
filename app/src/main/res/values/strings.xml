@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MiniFacebook Photos</string>
+    <string name="title_activity_user_space">User Space</string>
+    <string name="title_home">Home</string>
+    <string name="title_logout">Logout</string>
+    <string name="title_compte">Account</string>
+    <string name="title_email">E-mail address</string>
+    <string name="title_passwd">Password</string>
+    <string name="title_register">Sign Up</string>
+    <string name="title_login">Sign In</string>
+    <string name="title_signFb">Sign in with Facebook</string>
+    <string name="title_newAcc">New account? register now</string>
+    <string name="facebook_app_id">593062128172661</string>
+    <string name="fb_login_protocol_scheme">fb593062128172661</string>
+
+
+
+</resources>
